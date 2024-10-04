@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository and navigate to the project folder:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AndreVsc/types-ranked-match-calculator.git
    cd ranked-matches-calculator
    ```
 
